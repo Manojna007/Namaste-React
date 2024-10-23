@@ -1,8 +1,5 @@
-Here’s the same information formatted as a **README.md** file:
 
----
 
-# Namaste React Course by Akshay Saini  
 ## Chapter 02 - Igniting Our App  
 
 ### Q: What is NPM?
