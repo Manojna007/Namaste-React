@@ -1,0 +1,29 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "Namaste React",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manojna007/Namaste-React.git"
+  },
+  "keywords": [
+    "Namste",
+    "React"
+  ],
+  "author": "Manojna P",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manojna007/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/Manojna007/Namaste-React#readme",
+  "dependencies": {
+    "parser": "^0.1.4"
+  },
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
